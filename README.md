@@ -1,2 +1,4 @@
-# Pharma-Buddy_Business-process-and-data-modelling
-Business process and data modelling project
+# Pharma-Buddy_Business-process-and-data-modeling
+Business process and data modeling project
+
+Tools used for modeling: Lucidchart, MySQL Workbench
